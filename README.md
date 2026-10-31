@@ -12,7 +12,7 @@ Los efectos de ambiente y batería son grabaciones reales de [Freesound](https:/
 | --- | --- | --- |
 | Platillo suave | [Cymbal Swell 3](https://freesound.org/s/219836/) | rubberduckie |
 | Platillo largo | [K Zildjian Istanbul 20" Ride, wash](https://freesound.org/s/93907/) | pjcohen |
-| Lluvia de tubitos | [Five Bar Chimes Samples](https://freesound.org/s/495327/) (primera toma) | tosha73 |
+| Lluvia de tubitos | [Bar chimes 01](https://freesound.org/s/399234/) (primeros 11 s) | ubik83 |
 | Lluvia larga | [Bar chimes 01](https://freesound.org/s/399234/) | ubik83 |
 | Palo de lluvia | [rainstick](https://freesound.org/s/159188/) | symphoid |
 | Gota, Gotas | [Water drops with reverb](https://freesound.org/s/696438/) | Patrick Corra |

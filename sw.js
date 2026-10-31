@@ -1,6 +1,6 @@
 // Guarda la app la primera vez. Después abre siempre desde lo guardado, con o sin internet,
 // y actualiza en segundo plano: una versión nueva nunca interrumpe, llega en la siguiente apertura.
-const CACHE = 'manto-v4';
+const CACHE = 'manto-v5';
 const FILES = ['./', './manifest.webmanifest', './icon-192.png', './icon-512.png'];
 
 self.addEventListener('install', e => {
